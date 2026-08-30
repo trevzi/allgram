@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "updated_at": "2026-08-31",
+  "gifts": [
+    {
+      "owner": {
+        "type": "user",
+        "id": "8254343851"
+      },
+      "slug": "PlushPepe-425",
+      "pinned": false
+    },
+    {
+      "owner": {
+        "type": "user",
+        "id": "8254343851"
+      },
+      "slug": "PlushPepe-1216",
+      "pinned": false
+    },
+    {
+      "owner": {
+        "type": "user",
+        "id": "8254343851"
+      },
+      "slug": "PlushPepe-179",
+      "pinned": false
+    },
+    {
+      "owner": {
+        "type": "user",
+        "id": "8254343851"
+      },
+      "slug": "PlushPepe-1375",
+      "pinned": false
+    }
+  ]
+}
