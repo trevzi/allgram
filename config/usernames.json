@@ -5,21 +5,21 @@
     {
       "owner": {
         "type": "user",
-        "id": "123"
+        "id": "8254343851"
       },
       "username": "1",
       "author": {
         "type": "user",
-        "id": "123"
+        "id": "8254343851"
       },
       "purchase_date": "2026-08-17T09:41:00+05:00",
       "price": {
         "crypto_currency": "TON",
-        "crypto_amount": "1",
+        "crypto_amount": "5050",
         "currency": "USD",
-        "amount": "1"
+        "amount": "6816,87"
       },
-      "url": "https://t.me/allgramdev"
+      "url": "https://t.me/c3nt3rov"
     }
   ]
 }
