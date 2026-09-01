@@ -12,6 +12,13 @@
     {
       "peer": {
         "type": "user",
+        "id": "8976301353"
+      },
+      "organization_id": "trevzi"
+    },
+    {
+      "peer": {
+        "type": "user",
         "id": "1800364210"
       },
       "organization_id": "trevzi"
